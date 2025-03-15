@@ -1,5 +1,6 @@
 
-![Real Time (1)](https://github.com/user-attachments/assets/6a0700e2-e055-4c01-b6be-1a891a0dda8d)
+
+![BANNER!!!](https://github.com/user-attachments/assets/2a3f8bb1-18a4-4766-9eb5-fe487b1a8891)
 
 ## Steps to use it yourself!
 - Get your own Gemini API key over here : [Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key)
