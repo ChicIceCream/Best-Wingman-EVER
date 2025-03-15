@@ -1,3 +1,6 @@
+
+![Real Time (1)](https://github.com/user-attachments/assets/6a0700e2-e055-4c01-b6be-1a891a0dda8d)
+
 ## Steps to use it yourself!
 - Get your own Gemini API key over here : [Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key)
 - Open Command Palette → “Preferences: Open User Settings (JSON)” or “Preferences: Open Workspace Settings (JSON)”  
