@@ -1,6 +1,7 @@
 
 
-![BANNER!!!](https://github.com/user-attachments/assets/a0b5dd5a-9726-4c47-ac1e-3e92eb6068ba)
+![BANNER!!!](https://github.com/user-attachments/assets/6d0cddb3-86d4-4551-b685-eae83d84db2f)
+
 
 ## Steps to use it yourself!
 - Get your own Gemini API key over here : [Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key)
