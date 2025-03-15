@@ -4,6 +4,7 @@
 
 
 ## Steps to use it yourself!
+- Git clone thus repository 
 - Get your own Gemini API key over here : [Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key)
 - Open Command Palette → “Preferences: Open User Settings (JSON)” or “Preferences: Open Workspace Settings (JSON)”  
 - Look for `google.gemini.apiKey`.
