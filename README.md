@@ -56,6 +56,8 @@ Using the chatbot is as easy as 1-2-3:
 2. *Choose a feature* from the chatbot (e.g., "Generate test cases" or "Analyze time complexity").
 3. *Let the chatbot do the rest!* It will guide you through the process and provide the results instantly.
 
+[![Watch the video](https://img.youtube.com/vi/EF6fqnnl3Uk/0.jpg)](https://www.youtube.com/watch?v=EF6fqnnl3Uk)
+
 ---
 
 ## Got Questions or Ideas?
