@@ -12,7 +12,6 @@ export function openGeminiChat() {
         }
     );
 
-    // Set the webview content
     panel.webview.html = getWebviewContent();
 
     // Listen for messages from the webview
@@ -26,7 +25,7 @@ export function openGeminiChat() {
     );
 }
 
-// Function to get the API response from Gemini
+// Gemini function to call
 async function queryGemini(prompt: string): Promise<string> {
     // Combine the custom prompt with the user input
     const customPrompt = `Below is an instruction that describes a task. 
@@ -54,7 +53,7 @@ async function queryGemini(prompt: string): Promise<string> {
     return response.text() || 'No response from Wingman.';
 }
 
-// Function to generate HTML for the webview panel
+// HTML and CSS code to create the webview inside vscode
 function getWebviewContent(): string {
     return `
     <!DOCTYPE html>
