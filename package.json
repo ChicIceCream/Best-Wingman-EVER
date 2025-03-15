@@ -49,10 +49,9 @@
           "google.gemini.apiKey": {
             "type": [
               "string",
-              "AIzaSyCCj_8HHeEXic4AgTCRMm4ELNIndN6MlK8"
+              "nah bruv you aint getting my API!!!"
             ],
-            "default": "AIzaSyCCj_8HHeEXic4AgTCRMm4ELNIndN6MlK8",
-            "markdownDescription": "Enter your [API Key](https://aistudio.google.com/app/apikey) for Gemini."
+            "default": "nah bruv you aint getting my API!!!",
           },
           "google.gemini.textModel": {
             "type": [
