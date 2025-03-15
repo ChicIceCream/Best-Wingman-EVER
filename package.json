@@ -51,7 +51,7 @@
               "string",
               "nah bruv you aint getting my API!!!"
             ],
-            "default": "nah bruv you aint getting my API!!!",
+            "default": "nah bruv you aint getting my API!!!"
           },
           "google.gemini.textModel": {
             "type": [
