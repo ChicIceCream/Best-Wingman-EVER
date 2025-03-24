@@ -7,6 +7,8 @@ Return ONLY the complete function with the new name, followed by a brief
 explanation (2 sentences max) on a new line after the function code.
 Do not include any additional text, markdown formatting, or code blocks.
 BUT do not change the function. Keep the spacing, lines, functions and everything else the same.
+If you think you can improve this function, DO NOT DO IT! Keep it the same. You are only 
+require to change the name of the functiona and that is it. Thanks! 
 `;
 
 export async function generateName() {
