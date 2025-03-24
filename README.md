@@ -7,7 +7,7 @@
 - Look for `google.gemini.apiKey`.
 - Enter your API key there! (This is easier than going through the whole code and changing it in `package.json`)
 - Press `F5` or `Debug Extension` in the Extension Tab in VSCode and **ENJOY WINGMAN'S HELP!**
-
+- 
 ---
 
 # Chatbot Features Documentation
@@ -31,7 +31,6 @@ Welcome to the Chatbot Features Documentation! Here, we’ll walk you through th
 
 
 ![name function](https://github.com/user-attachments/assets/8b9eb0c4-6d5a-429f-8ad8-a4847a380486)
-
 
 ## 3. *Toggle Auto Suggestions*
    *Tired of typing out long lines of code or forgetting syntax?*  
