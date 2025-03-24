@@ -2,7 +2,8 @@ import * as vscode from 'vscode';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 const PROMPT = `
-Given this Python function, rewrite it with an appropriate name that reflects what it does.
+Given this Python function, rewrit the function's name it with an appropriate name that 
+reflects what it does. As functions go, keep it in one word or two words max joined by an underscore
 Return ONLY the complete function with the new name, followed by a brief 
 explanation (2 sentences max) on a new line after the function code.
 Do not include any additional text, markdown formatting, or code blocks.
